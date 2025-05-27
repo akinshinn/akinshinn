@@ -12,6 +12,6 @@ Welcome to my GitHub! I’m passionate about turning data into actionable insigh
 🎓 Now I am studying at the Bauman Moscow State Technical University
 
 
-✉️ Contact me via telegram[telegram](https://t.me/akinshinn) or email (akinshinn665@gmail.com)
+✉️ Contact me via [telegram](https://t.me/akinshinn) or email (akinshinn665@gmail.com)
 
   You can check my [CV](https://akinshinn.github.io/CV.pdf).
