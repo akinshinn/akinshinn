@@ -15,3 +15,4 @@ Welcome to my GitHub! I’m passionate about turning data into actionable insigh
 ✉️ Contact me via [telegram](https://t.me/akinshinn) or email (akinshinn665@gmail.com)
 
   You can check my [CV](https://akinshinn.github.io/CV.pdf).
+  
